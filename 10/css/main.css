@@ -1,0 +1,115 @@
+div {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main-background {
+    width: 100%;
+    height: 1000px;
+    background-image: url(../shoes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1px;
+    /*
+     margin collapse 현상 방지
+     
+     margin collapse란?
+     두 개의 박스의 테두리가 겹쳤을 때
+     두 박스의 margin이 합쳐지는 현상을 말한다.
+     이를 방지하기 위해 padding을 1px를 줘서
+     안쪽에 여백이 생기므로 테두리가 붙어있지 않게 되고
+     margin collapse 현상이 발생하지 않는다.
+    */
+
+    position: relative;
+}
+
+.main-title {
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.main-text-container {
+    width: 20%;
+    padding: 20px;
+    margin-left: 5px;
+    background-color: rgba(255, 0, 0, 0.5);
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-text {
+    font-size: 16px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub-title {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+
+.sub-text {
+    font-size: 16px;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.sub-background {
+    width: 80%;
+    max-width: 600px;
+    min-width: 200px;
+    padding: 40px;
+    position: relative;
+    top: -60px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.buy-btn {
+    
+    /*
+        position에는 4가지가 있다.
+        static, relative, absolute, fixed
+        static은 기본값이다
+        relative는 기존 좌표에서 좌표이동이 가능하다
+        fixed는 내가 보는 화면을 기준으로 좌표이동한다 (스크롤 시 같이 움직인다).
+        absolute는 부모 중 relative 속성을 가진 부모를 기준으로 좌표이동한다.
+    */
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 200px;
+
+    padding: 15px;
+    font-size: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub-background {
+    background-color: #eee;
+    width: 800px;
+    height: 600px;
+}

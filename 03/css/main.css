@@ -1,0 +1,27 @@
+.profile {
+    width: 100px;
+    margin-left: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 2vw;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.blue {
+    color: blue;
+}
+
+.pink {
+    color: pink;
+}
+
+.underline {
+    text-decoration: underline;
+}
