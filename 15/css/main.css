@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0 auto;
+}
+
+.cart-background {
+    width: 60%;
+    background-color: #c2d3de;
+    padding: 30px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    color: #325478;
+}
+
+.cart-table {
+    width: 100%;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 10px;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.cart-table td, .cart-table th {
+    padding: 10px;
+    border-bottom: 1px solid #c2d3de;
+}
+
+.cart-table th:nth-child(1) {
+    width: 100px;
+    text-align: left;
+}
+
+.cart-table th:nth-child(2) {
+    width: 250px;
+    text-align: left;
+}
+
+.cart-table td:nth-child(3), .cart-table th:nth-child(3) {
+    text-align: right;
+    width: 100px;
+}
+
+.item p:nth-child(1) {
+    font-weight: bold;
+}
+
+.item p:nth-child(2), .cart-table td:nth-child(3) {
+    font-weight: bold;
+    color: #c2d3de;
+}
+
+.cart-table td:nth-child(4), .cart-table td:nth-child(5) {
+    color: #325478;
+    font-weight: bold;
+    text-align: center;
+}
+
+.buy-btn {
+    padding: 10px;
+    font-size: 20px;
+    background: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+.buy-btn:hover {
+    background: chocolate;
+}
+
+.buy-btn:focus {
+    background-color: grey;
+}
+
+.buy-btn:active {
+    background-color: brown;
+}
+
+.input-test {
+    font-size: 20px;
+}
+
+.input-test:focus {
+    border: 4px solid red;
+}
+
+.custom-link {
+    text-decoration: none;
+}
+
+.custom-link:link {
+    color: aqua;
+}
+
+.custom-link:visited {
+    color: black;
+}

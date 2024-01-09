@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    padding: 30px;
+}
+
+.content {
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+.back-dolphin {
+    background: #B2CCD6;
+}
+
+.back-dark-dolphin {
+    background-color: #37597C;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.color-dolphin {
+    color: #B2CCD6;
+}
+
+.color-dark-dolphin {
+    color: #37597C;
+}
+
+.title {
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+
+thead {
+    border-bottom : 1px solid #B2CCD6;
+}
+
+th, td {
+    text-align: center;
+}
+
+.td-item {
+    text-align: left;
+}
+
+.payment-btn {
+    color: white;
+    padding: 20px;
+    border: 0px;
+    border-radius: 5px;
+    float: right;
+}
+
+.w-100 {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.both {
+    clear: both;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.sony {
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.description {
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.border-bottom>td {
+    border-bottom: 1px solid #B2CCD6;
+}
