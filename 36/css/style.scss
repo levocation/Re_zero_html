@@ -1,0 +1,30 @@
+.sh-list {
+    list-style-type: none;
+    li {
+        padding: 15px;
+        border: 1px solid #eee;
+        &:hover {
+            background-color: skyblue;
+            color: white;
+        }
+    }
+}
+
+@mixin alert-box($bg-color, $color) {
+    background-color: $bg-color;
+    color: $color;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.alert-box-green {
+    @include alert-box(green, white);
+}
+
+.alert-box-yellow {
+    @include alert-box(yellow, brown);
+}
+
+.alert-box-blue {
+    @include alert-box(blue, white);
+}

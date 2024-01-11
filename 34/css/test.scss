@@ -1,0 +1,44 @@
+
+.main-bg {
+    h4 {
+        font-size: 16px;
+    }
+    button {
+        color: red;
+    }
+}
+
+%box {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.box-green {
+    @extend %box;
+    background-color: green;
+}
+
+.box-red {
+    @extend %box;
+    background-color: red;
+}
+
+.box-blue {
+    @extend %box;
+    background-color: blue;
+}
+
+$main-color: #2a4cb2;
+$default-size: 16px;
+
+.box {
+    width: 100px;
+    color: $main-color;
+    font-size: $default-size + 2px;
+}
+
+.background {
+    background-color: $main-color;
+    font-size: $default-size - 2px;
+}

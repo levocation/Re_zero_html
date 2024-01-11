@@ -1,0 +1,14 @@
+
+$main-color: #2a4cb2;
+$default-size: 16px;
+
+.box {
+    width: 100px;
+    color: $main-color;
+    font-size: $default-size + 2px;
+}
+
+.background {
+    background-color: $main-color;
+    font-size: $default-size - 2px;
+}

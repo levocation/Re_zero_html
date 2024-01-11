@@ -1,0 +1,96 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    grid-gap: 10px;
+
+    grid-template-areas: 
+        "헤더 헤더 헤더 헤더"
+        "사이드 콘 콘 콘"
+        "사이드 콘 콘 콘"
+    ;
+}
+
+.grid-container div {
+    border: 1px solid black;
+}
+
+.grid-nav {
+    grid-area: 헤더;
+}
+
+.grid-sidebar {
+    grid-area: 사이드;
+}
+
+.grid-content {
+    grid-area: 콘;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+
+    grid-template-areas: 
+        "img-1 img-1 img-2"
+        "img-1 img-1 img-3"
+        "img-4 img-5 img-6"
+    ;
+}
+
+.grid-container2 div img {
+    width: 100%;
+    height: 100%;
+}
+
+.img-1 {
+    grid-area: img-1;
+}
+
+.img-2 {
+    grid-area: img-2;
+}
+
+.img-3 {
+    grid-area: img-3;
+}
+
+.img-4 {
+    grid-area: img-4;
+}
+
+.img-5 {
+    grid-area: img-5;
+}
+
+.img-6 {
+    grid-area: img-6;
+}
+
+@media screen and (max-width: 862px) {
+    .grid-container {
+        grid-template-columns: 100px;
+        grid-template-rows: 100px 100px 100px;
+        grid-template-areas: 
+            "헤더"
+            "사이드"
+            "콘"
+        ;
+    }
+    
+    .grid-container2 {
+        display: grid;
+        grid-template-columns: 100px;
+        grid-template-rows: 100px 100px 100px 100px 100px 100px;
+    
+        grid-template-areas: 
+            "img-1" 
+            "img-2" 
+            "img-3" 
+            "img-4" 
+            "img-5" 
+            "img-6"
+        ;
+    }
+}
