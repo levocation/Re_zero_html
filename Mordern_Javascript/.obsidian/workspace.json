@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "f169d63ed881c583",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc057cc6ee53a1de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c4f81675d2bae5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "ZCORE-JS/2"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebecf0c946838b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6a8f07a6bf33ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367949e0dbbd21b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2238b05571ff725",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cfd277362ea089d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a65d9a3bddbe9ad0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf8c1dee1943f50",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b5bef170c0815d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "059b4a90665774cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e255b095370c3830",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZCORE-JS/2/2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "328a67d517f07f61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ZCORE-JS/2/2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffee6c275b10fc78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "511dafd292c8b0b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZCORE-JS/2/2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "47c82cebc3fc9fad",
+  "lastOpenFiles": [
+    "ZCORE-JS/1/1.md",
+    "ZCORE-JS/2/2.md",
+    "ZCORE-JS/2/script.js",
+    "ZCORE-JS/2/index.html",
+    "ZCORE-JS/2/1.md",
+    "Pasted image 20240113010803.png",
+    "ZCORE-JS/1/script.js",
+    "ZCORE-JS/1/index.html",
+    "ZCORE-JS/2",
+    "ZCORE-JS/1",
+    "ZCORE-JS",
+    "CORE-JS/1",
+    "CORE-JS",
+    "1",
+    "Basic/Section02/8. Vector.md",
+    "Basic/Section02/9. 총알 발사.md",
+    "Pasted image 20240101165512.png",
+    "Pasted image 20240101164929.png",
+    "Basic/Section02/5. Blueprint Instance.md",
+    "Basic/Section02/4. Impulse 추가하기.md",
+    "Basic/Section02/2. 물리법칙 시물레이션.md",
+    "Basic/Section02/3. Object와 Reference.md",
+    "Basic/Section02/7. Pawn과 Actor 위치.md",
+    "Pasted image 20240101162451.png",
+    "Pasted image 20240101162216.png",
+    "Pasted image 20240101162141.png",
+    "Pasted image 20240101162106.png",
+    "Basic/Section02/9. 수학적 Vector.md",
+    "Basic/Section02/Section02.md",
+    "Basic/Section01/2. 질문을 잘 하는 방법.md",
+    "Basic/Section01/1. C++ vs Blueprint.md",
+    "Pasted image 20240101161621.png",
+    "Pasted image 20240101161113.png",
+    "Basic/Section02/6. Actor 찍어내기.md",
+    "Pasted image 20231231233808.png",
+    "Basic/Section02/.md",
+    "Basic/Section02/1. Blueprint 이벤트 그래프.md",
+    "Basic/Section02/Blueprint 명령어 용어집.md",
+    "Untitled.md"
+  ]
+}
