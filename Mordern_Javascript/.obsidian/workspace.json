@@ -11,10 +11,8 @@
             "id": "c9c4f81675d2bae5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "ZCORE-JS/2"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -100,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZCORE-JS/2/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZCORE-JS/2/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZCORE-JS/2/2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,46 +156,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47c82cebc3fc9fad",
+  "active": "c9c4f81675d2bae5",
   "lastOpenFiles": [
-    "ZCORE-JS/1/1.md",
-    "ZCORE-JS/2/2.md",
-    "ZCORE-JS/2/script.js",
-    "ZCORE-JS/2/index.html",
-    "ZCORE-JS/2/1.md",
+    "ZCORE-JS/8/8.md",
+    "CORE-JS/8/script.js",
+    "CORE-JS/7/script.js",
+    "CORE-JS/8/index.html",
+    "CORE-JS/8/8.md",
+    "CORE-JS/7/index.html",
+    "CORE-JS/6/script.js",
+    "CORE-JS/7/7.md",
+    "CORE-JS/6/index.html",
+    "CORE-JS/5/index.html",
+    "CORE-JS/5/script.js",
+    "CORE-JS/6/6.md",
+    "CORE-JS/5/5.md",
+    "CORE-JS/4/script.js",
+    "CORE-JS/4/index.html",
+    "CORE-JS/4/4.md",
+    "CORE-JS/3/3.md",
+    "CORE-JS/2/2.md",
+    "CORE-JS/1/1.md",
+    "ZCORE-JS/8/7.md",
+    "ZCORE-JS/7 copy/7.md",
+    "ZCORE-JS/7/7.md",
+    "ZCORE-JS/7/6.md",
+    "ZCORE-JS/6/6.md",
+    "ZCORE-JS/6 copy/6.md",
+    "Pasted image 20240115002711.png",
+    "ZCORE-JS/5/5.md",
+    "ZCORE-JS/6/5.md",
+    "ZCORE-JS/5 copy/5.md",
+    "ZCORE-JS/4/4.md",
+    "ZCORE-JS/5/4.md",
+    "Pasted image 20240115002534.png",
+    "ZCORE-JS/6/4.md",
+    "ZCORE-JS/4 copy/4.md",
+    "ZCORE-JS/3/3.md",
+    "ZCORE-JS/4/3.md",
+    "ZCORE-JS/3 copy/3.md",
     "Pasted image 20240113010803.png",
-    "ZCORE-JS/1/script.js",
-    "ZCORE-JS/1/index.html",
-    "ZCORE-JS/2",
-    "ZCORE-JS/1",
-    "ZCORE-JS",
-    "CORE-JS/1",
-    "CORE-JS",
-    "1",
-    "Basic/Section02/8. Vector.md",
-    "Basic/Section02/9. 총알 발사.md",
     "Pasted image 20240101165512.png",
     "Pasted image 20240101164929.png",
-    "Basic/Section02/5. Blueprint Instance.md",
-    "Basic/Section02/4. Impulse 추가하기.md",
-    "Basic/Section02/2. 물리법칙 시물레이션.md",
-    "Basic/Section02/3. Object와 Reference.md",
-    "Basic/Section02/7. Pawn과 Actor 위치.md",
     "Pasted image 20240101162451.png",
     "Pasted image 20240101162216.png",
     "Pasted image 20240101162141.png",
     "Pasted image 20240101162106.png",
-    "Basic/Section02/9. 수학적 Vector.md",
-    "Basic/Section02/Section02.md",
-    "Basic/Section01/2. 질문을 잘 하는 방법.md",
-    "Basic/Section01/1. C++ vs Blueprint.md",
-    "Pasted image 20240101161621.png",
-    "Pasted image 20240101161113.png",
-    "Basic/Section02/6. Actor 찍어내기.md",
-    "Pasted image 20231231233808.png",
-    "Basic/Section02/.md",
-    "Basic/Section02/1. Blueprint 이벤트 그래프.md",
-    "Basic/Section02/Blueprint 명령어 용어집.md",
-    "Untitled.md"
+    "Pasted image 20240101161621.png"
   ]
 }
