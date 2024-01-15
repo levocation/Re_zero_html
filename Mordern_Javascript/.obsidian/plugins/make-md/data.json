@@ -67,7 +67,9 @@
     "//ZCORE-JS/ZCORE-JS/7",
     "//ZCORE-JS/ZCORE-JS/7",
     "//ZCORE-JS/ZCORE-JS/8",
-    "//CORE-JS"
+    "//CORE-JS",
+    "//DOM",
+    "//DOM/DOM/4"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
